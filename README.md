@@ -1,5 +1,9 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
+<h3>Name: SUJITHRA B K N</h3>
+
+<h3>Register Number: 212222230153</h3>
+
 # AIM:
 To Implementation of Classical Planning Algorithm
 
